@@ -21,13 +21,13 @@
 title: Huayu blog
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Your time is limited, so don't waste it living someone else's life. 
-  Don't be trapped by dogma – which is living with the results of other people's thinking. 
+  "Your time is limited, so don't waste it living someone else's life. 
+  Don't be trapped by dogma – which is living with the results of other people's thinking." 
   -Steve Jobs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://huayuchu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  huayuchu
+github_username: 
 
 # Build settings
 theme: minima
